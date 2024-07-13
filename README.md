@@ -4,7 +4,7 @@ Para garantir que você consiga executá-lo localmente, assegure-se de criar na 
 uma pasta .vscode.
 Nela, você deve inserir os seguintes arquivos:
 
-###c_cpp_properties.json
+### c_cpp_properties.json
 ```json
   {
     "configurations": [
