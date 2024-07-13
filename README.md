@@ -151,3 +151,5 @@ Nela, você deve inserir os seguintes arquivos:
 
 Atente-se novamente ao fato de que essas configurações foram feitas com base no meu sistema operacional
 que é o Windows 11 de 64 bits.
+
+Além disso, utilizei a extensão C/C++ Extension Pack e o MSys2 para compilar e executar a aplicação.
